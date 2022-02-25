@@ -7,7 +7,7 @@
 ### Interest
 
 ### Latest Projects
-[Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward)
+
 
 ### Languages and Tools
 
