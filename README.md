@@ -1,13 +1,8 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Lim, Developer from :kr: Seoul, Republic of Korea 
-
-
-### About me
+### I am Lim, Developer from :kr: Incheon, Republic of Korea 
 
 ### Interest
-
-### Latest Projects
-
+* Front-End
 
 ### Languages and Tools
 
